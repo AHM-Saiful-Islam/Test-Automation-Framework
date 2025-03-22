@@ -29,7 +29,10 @@ To generate an HTML report:
 - pytest tests/test_saucedemo_login.py --html=reports/login_test_report.html
 - open login_test_report.html on browser.
 
-![Report](image.png)
+# Report
+![grafik](https://github.com/user-attachments/assets/e3a34f13-cc43-430b-85a8-307124d1c397)
+
+
 
 
 # 🎯 Expected Outcome:
