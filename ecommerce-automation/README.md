@@ -30,8 +30,8 @@ To generate an HTML report:
 - open login_test_report.html on browser.
 
 # Report
-![grafik](https://github.com/user-attachments/assets/e3a34f13-cc43-430b-85a8-307124d1c397)
-
+- saucedemo.com test report
+![grafik](https://github.com/user-attachments/assets/6427d1f9-30cb-4607-bad2-fce3ce795474)
 
 
 
