@@ -15,22 +15,9 @@ Test Management: Jira / TestRail
 
 # Step 1: Set Up the Test Framework
 
-📌 Structure your test automation framework using PyTest, TestNG, or JUnit.
-Example Folder Structure:
 
-ecommerce-automation/
-│── tests/                     # Contains all test cases
-│   ├── test_ui.py             # UI Test Cases
-│   ├── test_api.py            # API Test Cases
-│   ├── test_db.py             # Database Test Cases
-│   ├── test_performance.py    # Performance Tests
-│── pages/                     # Page Object Model (POM) for UI tests
-│── utils/                     # Helper functions
-│── reports/                   # Test Reports
-│── requirements.txt           # Dependencies list
-│── config.yaml                # Environment Configuration
-│── Jenkinsfile                # CI/CD Pipeline
-│── README.md                  # Project Documentation
+![grafik](https://github.com/user-attachments/assets/d435a8f5-bf69-485f-9d2a-b702ac095ffb)
+
 
 
 # 🎯 Expected Outcome:
