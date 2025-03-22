@@ -26,7 +26,7 @@ Test Management: Jira / TestRail
 
 To generate an HTML report:
 
-- pytest tests/test_saucedemo_login.py --html=reports/login_test_report.html
+- pytest tests/test_saucedemo_login.py --html=reports/test_report.html
 - open login_test_report.html on browser.
 
 # Report
