@@ -33,9 +33,5 @@ To keep your dependencies isolated, create a virtual environment :
 - source venvtestauto/bin/activate  # Activate (Mac/Linux)
 - venvtestauto\Scripts\activate  # Activate (Windows)
 - pip install -r requirements.txt  # Install dependencies
-
-
-
-
-
+- after finishing test close venv by deactivate command
 
