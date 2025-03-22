@@ -1,0 +1,52 @@
+# Byte-compiled and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.envrc
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Test reports and logs
+*.log
+*.out
+*.err
+logs/
+reports/
+allure-results/
+htmlcov/
+*.xml
+coverage*.json
+*.cover
+
+# Selenium-related files
+*.png
+*.jpg
+screenshots/
+selenium-screenshot-*.png
+
+# Pytest-related files
+.cache/
+.pytest_cache/
+junit-*.xml
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Dependencies (if not using a requirements.txt)
+site-packages/
+
+# Jupyter notebooks (if used in automation analysis)
+.ipynb_checkpoints/

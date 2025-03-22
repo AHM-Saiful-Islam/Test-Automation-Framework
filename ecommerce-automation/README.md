@@ -20,6 +20,18 @@ Test Management: Jira / TestRail
 
 
 
+# Run the script with:
+
+- pytest tests/test_saucedemo_login.py --capture=no
+
+To generate an HTML report:
+
+- pytest tests/test_saucedemo_login.py --html=reports/login_test_report.html
+- open login_test_report.html on browser.
+
+![Report](image.png)
+
+
 # 🎯 Expected Outcome:
 Fully automated testing framework ✅
 Automated UI & API testing ✅

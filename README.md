@@ -29,9 +29,9 @@ Check if all required packages were installed successfully:
 
 To keep your dependencies isolated, create a virtual environment :
 
-- python -m venv venv  # Create virtual environment
-- source venv/bin/activate  # Activate (Mac/Linux)
-- venv\Scripts\activate  # Activate (Windows)
+- python -m venv venvtestauto  # Create virtual environment
+- source venvtestauto/bin/activate  # Activate (Mac/Linux)
+- venvtestauto\Scripts\activate  # Activate (Windows)
 - pip install -r requirements.txt  # Install dependencies
 
 
