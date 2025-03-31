@@ -1,0 +1,18 @@
+# Ignore specific files
+secret_config.json
+debug.log
+
+# Ignore all `.log` files
+*.log
+
+# Ignore a folder and its contents
+node_modules/
+
+# Ignore all `.env` files
+.env
+
+# Ignore `__pycache__` (Python cache files)
+__pycache__/
+
+# Ignore all `.txt` files inside a specific folder
+*.txt
